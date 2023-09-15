@@ -9,5 +9,4 @@ contains:
 - comparing bitmaps and returning center coords if found bitmap is present
 - audio beep, waiting, ...
 
-You can use it for making external bot for games or bot for anything else.
-You don't need to know anything about the program that you want to make bot for, just add images you want to click on, or coords where to click.
+You can use it to create a bot for games or to automate any activity to make the pc appear to be controlled by the user.
