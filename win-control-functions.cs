@@ -25,9 +25,9 @@ Point point = new Point(0, 0);
 Find(screen, YourPicture, out point);
 // Right click on point coords.
 RightClick(point);
-// Right click on point coords.
+// Left click on point coords.
 LeftClick(point);
-// Right click on point coords.
+// LeftDouble click on point coords.
 LeftDoubleClick(point);
 // Wait time in miliseconds.
 Thread.Sleep(500);
